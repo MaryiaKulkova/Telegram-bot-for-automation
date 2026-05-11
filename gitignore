@@ -1,0 +1,32 @@
+# === СЕКРЕТНЫЕ ФАЙЛЫ (никогда не заливать!) ===
+credentials.json
+.env
+*.env
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# === Виртуальные окружения ===
+venv/
+env/
+.venv/
+.env/
+
+# === IDE и редакторы ===
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# === Логи ===
+*.log
+logs/
