@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/27615277/README.md)
-# HSE Alumni Telegram Bot — St. Petersburg
+# Alumni Telegram Bot for university 
 
-A Telegram bot that helps HSE St. Petersburg alumni check the status of their alumni card and receive notifications when it's ready. All data is stored in a Google Spreadsheet managed by the alumni relations team.
+A Telegram bot that helps University's alumni check the status of their alumni card and receive notifications when it's ready. All data is stored in a Google Spreadsheet managed by the alumni relations team.
 
 ---
 
